@@ -16,4 +16,5 @@ Projeyi klonladıktan sonra VSCode ile açalım
 
 # bip bop
 ![alt text][logo]
+
 [logo]: https://github.com/lavrensiyum/kodluyoruzilkrepo/tree/main/assets/img/kodlamayacalisiyoruz.png "bop bip"
