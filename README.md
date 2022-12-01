@@ -15,5 +15,5 @@ Projeyi klonladıktan sonra VSCode ile açalım
 [＼（〇_ｏ）／](https://github.com/lavrensiyum/kodluyoruzilkrepo/blob/main/LICENSE)
 
 # bip bop
-![alt text](https://github.com/lavrensiyum/kodluyoruzilkrepo/tree/main/assets/img/kodlamayacalisiyoruz.png "bop bip")
-
+![alt text][logo]
+[logo]: https://github.com/lavrensiyum/kodluyoruzilkrepo/tree/main/assets/img/kodlamayacalisiyoruz.png "bop bip"
